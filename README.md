@@ -131,21 +131,11 @@ I'm interested in opportunities related to:
 
 ---
 
-## 📂 My GitHub Projects
-
-| Project                        | Focus                            |
-| ------------------------------ | -------------------------------- |
-| 📰 Fake News Detection         | Machine Learning & NLP           |
-| 📊 Blinkit Dashboard           | Power BI & Business Intelligence |
-| 🌍 Energy Consumption Analysis | SQL & Data Analysis              |
-| 📚 Book Sales Analysis         | Web Scraping & EDA               |
-| 💰 Personal Expense Tracker    | Python & Streamlit               |
-
----
-
 ## 📫 Connect With Me
 
 * 💻 GitHub: [MeghamalaBaipothu](https://github.com/MeghamalaBaipothu)
+* 💼 LinkedIn: [Meghamala Baipothu](https://www.linkedin.com/in/meghamala-baipothu-77138525a/)
+* 📧 Email: [meghamalabaipothu@gmail.com](mailto:meghamalabaipothu@gmail.com)
 
 ---
 
