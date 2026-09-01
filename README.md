@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Meghamala Baipothu
 
-### 🎓 B.Tech Computer Science Engineering | Data Science & Analytics Enthusiast
+### 🎓 B.Tech in Computer Science Engineering | Data Science & Analytics Enthusiast
 
 I'm a Computer Science Engineering graduate interested in **Data Analytics, Data Science, Machine Learning, Python, SQL, Power BI, and AI**.
 
@@ -106,7 +106,7 @@ Python and Streamlit web application for managing **income, expenses, transactio
 
 ---
 
-## 📈 What I'm Currently Learning
+## 📈 Currently Learning
 
 * 🤖 Machine Learning
 * 🧠 Deep Learning
