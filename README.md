@@ -9,9 +9,7 @@ I enjoy transforming data into meaningful insights, building interactive dashboa
 ### 🌐 Quick Links
 
 - 🌐 **Portfolio:** [View My Portfolio](https://meghamalabaipothu.github.io/meghamala-portfolio/)
-## 🔗 Quick Links
-
-📄 **Resume:** [View My Resume](https://meghamalabaipothu.github.io/meghamala-portfolio/resume/Meghamala_Baipothu_Portfolio_Resume_pdf.pdf)
+- 📄 **Resume:** [View My Resume](https://meghamalabaipothu.github.io/meghamala-portfolio/resume/Meghamala_Baipothu_Portfolio_Resume_pdf.pdf)
 
 - 💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/meghamala-baipothu-77138525a/)
 - 📧 **Email:** [meghamalabaipothu@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=meghamalabaipothu@gmail.com&tf=cm)
@@ -257,7 +255,8 @@ I'm interested in opportunities related to:
   * 💻 GitHub: [MeghamalaBaipothu](https://github.com/MeghamalaBaipothu)
   * 💼 LinkedIn: [Meghamala Baipothu](https://www.linkedin.com/in/meghamala-baipothu-77138525a/)
   * 📧 Email: [meghamalabaipothu@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=meghamalabaipothu@gmail.com&tf=cm)
-🌐 [Portfolio](https://meghamalabaipothu.github.io/meghamala-portfolio/)
+    
+  * 🌐 [Portfolio](https://meghamalabaipothu.github.io/meghamala-portfolio/)
 
 ---
 
