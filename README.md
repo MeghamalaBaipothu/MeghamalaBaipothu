@@ -9,9 +9,12 @@ I enjoy transforming data into meaningful insights, building interactive dashboa
 ### 🌐 Quick Links
 
 - 🌐 **Portfolio:** [View My Portfolio](https://meghamalabaipothu.github.io/meghamala-portfolio/)
-- 📄 **Resume:** [View My Resume](https://meghamalabaipothu.github.io/meghamala-portfolio/resume/Meghamala_Resume.pdf)
-- 💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/meghamala-baipothu-77138525/)
-- 📧 **Email:** [meghamalabaipothu@gmail.com](mailto:meghamalabaipothu@gmail.com)
+## 🔗 Quick Links
+
+📄 **Resume:** [View My Resume](https://meghamalabaipothu.github.io/meghamala-portfolio/resume/Meghamala_Baipothu_Portfolio_Resume_pdf.pdf)
+
+- 💼 **LinkedIn:** [Connect with Me](https://www.linkedin.com/in/meghamala-baipothu-77138525a/)
+- 📧 **Email:** [meghamalabaipothu@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=meghamalabaipothu@gmail.com&tf=cm)
 
 ---
 
@@ -251,9 +254,9 @@ I'm interested in opportunities related to:
 
 ## 📫 Connect With Me
 
-💻 [GitHub](https://github.com/MeghamalaBaipothu)  
-💼 [LinkedIn](https://www.linkedin.com/in/meghamala-baipothu-77138525/)  
-📧 [Email](mailto:meghamalabaipothu@gmail.com)  
+  * 💻 GitHub: [MeghamalaBaipothu](https://github.com/MeghamalaBaipothu)
+  * 💼 LinkedIn: [Meghamala Baipothu](https://www.linkedin.com/in/meghamala-baipothu-77138525a/)
+  * 📧 Email: [meghamalabaipothu@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=meghamalabaipothu@gmail.com&tf=cm)
 🌐 [Portfolio](https://meghamalabaipothu.github.io/meghamala-portfolio/)
 
 ---
