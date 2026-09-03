@@ -256,7 +256,7 @@ I'm interested in opportunities related to:
   * 💼 LinkedIn: [Meghamala Baipothu](https://www.linkedin.com/in/meghamala-baipothu-77138525a/)
   * 📧 Email: [meghamalabaipothu@gmail.com](https://mail.google.com/mail/u/0/?fs=1&to=meghamalabaipothu@gmail.com&tf=cm)
     
-  * 🌐 [Portfolio](https://meghamalabaipothu.github.io/meghamala-portfolio/)
+  * 🌐 Portfolio: [Portfolio](https://meghamalabaipothu.github.io/meghamala-portfolio/)
 
 ---
 
